@@ -1,0 +1,4 @@
+#first you create models and migration that will handle all the attributes,
+for what you are creating/for your products.
+
+#Include all your product attributes in the model, to make them fillable.
